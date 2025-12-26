@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "kyleg250-buildlogic-time-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "6b2739c6-410a-4cc9-90e9-e5a762ea27ee",
+			"database_name": "d1-kyleg250-buildlogic-time-api"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
